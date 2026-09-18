@@ -1,4 +1,7 @@
 body {
-  background-color: rgb(236, 40, 0);
+  background-color: rgb(199, 0, 60);
   min-height: 100vh;
+}
+h1 { padding: 1em;  
+  text-shadow: 10px 10px 10px rgb(254, 254, 255);
 }
